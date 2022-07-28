@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* css for navigation bar and top of the page, made a few small altrications to the links on the navigation bar and their positioning */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +58,8 @@ p {
     margin-left: 20px;
 }
 
+/* css for image background */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Was able to condense the search engine optimization, online reputation management, and lead generation sections into the same class called "info-section" because they all got the same css attributes */
 
 .info-section {
     margin-bottom: 20px;
@@ -83,6 +89,8 @@ h2 {
     font-size: 36px;
 }
 
+/* image styling for the info-sections */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,6 +100,9 @@ h2 {
     float: right;
     margin-left: 25px;
 }
+
+/* Benefits section */
+/* heavily condensed this section because there was a lot of repeated or unnecessary code */
 
 .benefits {
     margin-right: 20px;
@@ -120,6 +131,7 @@ h2 {
     max-width: 150px;
 }
 
+/* Footer */
 
 .footer {
     padding: 30px;
