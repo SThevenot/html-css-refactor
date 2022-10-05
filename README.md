@@ -8,12 +8,12 @@
   ## Table of Contents 📖
   ----
   - [Installation Instructions](#installation-instructions)
-  - [Screenshots](#screenshots) 💡
-  - [License Info](#license-info) ©️
-  - [Technology Used](#technology-used) 🔧
-  - [Contribution Guidelines](#contribution-guidelines) 👩🏻‍💻
-  - [Test Instructions](#test-instructions) 📝
-  - [Questions?](#questions) ❓
+  - [Screenshots](#screenshots-💡) 
+  - [License Info](#license-info-©️) 
+  - [Technology Used](#technology-used-🔧) 
+  - [Contribution Guidelines](#contribution-guidelines-👩🏻‍💻) 
+  - [Test Instructions](#test-instructions-📝) 
+  - [Questions?](#questions-❓) 
   
   ## Installation Instructions
   
